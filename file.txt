@@ -1,1 +1,2 @@
 Commit n°1 sur master
+Commit n°2 sur master
